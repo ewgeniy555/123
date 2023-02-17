@@ -1,0 +1,15 @@
+C:\obuchenie\DZ_do_21.02.22\bin\Debug\net7.0\DZ_do_21.02.22.exe
+C:\obuchenie\DZ_do_21.02.22\bin\Debug\net7.0\DZ_do_21.02.22.deps.json
+C:\obuchenie\DZ_do_21.02.22\bin\Debug\net7.0\DZ_do_21.02.22.runtimeconfig.json
+C:\obuchenie\DZ_do_21.02.22\bin\Debug\net7.0\DZ_do_21.02.22.dll
+C:\obuchenie\DZ_do_21.02.22\bin\Debug\net7.0\DZ_do_21.02.22.pdb
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.csproj.AssemblyReference.cache
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.AssemblyInfoInputs.cache
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.AssemblyInfo.cs
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.csproj.CoreCompileInputs.cache
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.dll
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\refint\DZ_do_21.02.22.dll
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.pdb
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\DZ_do_21.02.22.genruntimeconfig.cache
+C:\obuchenie\DZ_do_21.02.22\obj\Debug\net7.0\ref\DZ_do_21.02.22.dll
